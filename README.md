@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hola, mi nombre es Alberto! 👋
+Bienvenido a mi GitHub
+
+![Fondo](https://github.com/ablazali/ablazali/assets/163334304/d32c99f8-bddc-4486-95d7-6371826efb26)
 
 <!--
 **ablazali/ablazali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
